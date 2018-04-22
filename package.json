@@ -1,0 +1,22 @@
+{
+  "name": "applinker",
+  "version": "1.0.0",
+  "description": "from web to app",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "applinker"
+  ],
+  "author": "yoring <joey_93@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^4.6.0"
+  }
+}
